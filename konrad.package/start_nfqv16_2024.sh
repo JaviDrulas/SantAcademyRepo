@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Mykola change Konrad script
 echo Inicializando entorno...
 sleep 2s
 
