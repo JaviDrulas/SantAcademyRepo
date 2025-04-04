@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Mykola change Konrad script
 echo Inicializando entorno...
 sleep 2s
 
@@ -27,3 +27,5 @@ echo Inicializando scheduler
 nohup ./scheduler.sh &
 
 echo Ambiente Inicializado
+
+echo some text
