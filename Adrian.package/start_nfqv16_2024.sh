@@ -27,3 +27,5 @@ echo Inicializando scheduler
 nohup ./scheduler.sh &
 
 echo Ambiente Inicializado
+
+echo some text
